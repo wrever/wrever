@@ -1,0 +1,128 @@
+
+.Proyectos {
+    background: #3b4245;
+    margin: 10px;
+    padding: 20px;
+    display: inline-block;
+    width: 300px;
+    border-radius: 5px;
+    color: white;
+    box-shadow: 0 0 5px rgb(255, 255, 255);
+    margin-top: 300px;
+    margin-left: 340px;
+    
+}
+.boton {
+    position: absolute;
+    width: 300px;
+    height: 112px;
+    margin-top: -35px;
+    margin-left: -20px;
+   
+    border-radius: 5px;
+    
+}
+.botonn {
+    margin-top: 35px;
+    margin-left: 20px;
+}
+
+.Proyectos span{
+    color: #fff;
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-shadow: 0 5px 25px rgba(2, 2, 2, 1);
+}
+
+.float-left {
+    float: left;
+    margin-top: 17px;
+}
+.float-right {
+    float: right;
+    font-size: 50px;
+}
+.Proyectos2 {
+    background: #3b4245;
+    margin: 10px;
+    padding: 20px;
+    display: inline-block;
+    width: 300px;
+    border-radius: 5px;
+    color: white;
+    box-shadow: 0 0 5px rgb(255, 255, 255);
+    margin-top: 300px;
+    margin-left: 100px;
+}
+.Proyectos2 span{
+    color: #fff;
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-shadow: 0 5px 25px rgba(2, 2, 2, 1);
+}
+
+.Proyectos3 {
+    background: #3b4245;
+    margin: 10px;
+    padding: 20px;
+    display: inline-block;
+    width: 300px;
+    border-radius: 5px;
+    color: white;
+    box-shadow: 0 0 5px rgb(255, 255, 255);
+    margin-top: 300px;
+    margin-left: 100px;
+}
+.Proyectos3 span{
+    color: #fff;
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-shadow: 0 5px 25px rgba(2, 2, 2, 1);
+}
+.Body {
+    background: black;
+   
+}
+.float-der {
+     margin-left: 60px;
+     color:#fff;
+   margin-top: -35px;
+   font-size: 20px;
+}
+.float-der2 {
+    margin-top: -35px;
+    color: #fff;
+    margin-left: 90px;
+    font-size: 20px;
+}
+.d-flex {
+    margin-left: 1270px;
+}
+.nav-item {
+    margin-left: 15px;
+}
+.Footer {
+    color: white;
+    margin-left: 80vh;
+    margin-top: 440px;
+}
+@media screen and (max-width: 1200px) {
+    .Proyectos{
+        margin-left: 50px;
+    }
+    .Proyectos2{
+        margin-left: 50px;
+    }
+    .Proyectos3{
+        margin-left: 50px;
+    }
+    .Footer {
+        margin-left: 60px;
+    }
+    .d-flex {
+        margin-left: 10px;
+    }
+}

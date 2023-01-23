@@ -1,0 +1,41 @@
+.Tarjeta {
+ background: #3b4245;
+ width: 800px;
+ height: 400px;
+ margin: 190px;
+ align-items: center;
+ margin-left: 550px;
+ border-radius: 10px;
+ box-shadow: 0 0 20px rgb(250, 3, 3);
+}
+.Tarjeta h2{
+    padding: 20px;
+    color: white;
+}
+.Tarjeta h3{
+    font-size: 20px;
+    margin-left: 20px;
+    color: white;
+}
+.Tarjeta h4{
+color: white;
+    margin-left: 30px;
+}
+.vcard{
+    margin-top: -390px;
+    margin-left: 700px;
+    position: absolute;
+    cursor: pointer;
+}
+@media screen and (max-width: 1200px) {
+    .Tarjeta {
+        margin-left: 15px;
+        width: 450px;
+        height: 470px;
+    }
+    .vcard{
+        margin-left: 380px;
+        margin-top: -440px;
+    }
+    
+}
